@@ -1,0 +1,8 @@
+{
+  "name": "Kaali Groups Ops",
+  "description": "Internal Operations & Financial Management System for Kaali Groups. Tracks delivery settlements, petrol expenses, and labour management.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
